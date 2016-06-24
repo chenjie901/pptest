@@ -1,0 +1,42 @@
+160624  1:32:49 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160624  1:32:49 [Note] /usr/sbin/mysqld (mysqld 5.5.47-0ubuntu0.14.04.1-log) starting as process 12 ...
+160624  1:32:49 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+160624  1:32:49 [Note] Plugin 'FEDERATED' is disabled.
+160624  1:32:49 InnoDB: The InnoDB memory heap is disabled
+160624  1:32:49 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160624  1:32:49 InnoDB: Compressed tables use zlib 1.2.8
+160624  1:32:49 InnoDB: Using Linux native AIO
+160624  1:32:49 InnoDB: Initializing buffer pool, size = 128.0M
+160624  1:32:49 InnoDB: Completed initialization of buffer pool
+160624  1:32:49 InnoDB: highest supported file format is Barracuda.
+160624  1:32:49  InnoDB: Waiting for the background threads to start
+160624  1:32:50 InnoDB: 5.5.47 started; log sequence number 1595675
+/usr/sbin/mysqld: File '/root/code/error.log' not found (Errcode: 13)
+160624  1:32:50 [ERROR] Could not use /root/code/error.log for logging (error 13). Turning logging off for the whole duration of the MySQL server process. To turn it on again: fix the cause, shutdown the MySQL server and restart it.
+160624  1:32:50 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+160624  1:32:50 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+160624  1:32:50 [Note] Server socket created on IP: '0.0.0.0'.
+160624  1:32:50 [Note] Event Scheduler: Loaded 0 events
+160624  1:32:50 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.47-0ubuntu0.14.04.1-log'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  (Ubuntu)
+160624  1:32:55 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+160624  1:32:55 [Note] /usr/sbin/mysqld (mysqld 5.5.47-0ubuntu0.14.04.1-log) starting as process 10 ...
+160624  1:32:55 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+160624  1:32:55 [Note] Plugin 'FEDERATED' is disabled.
+160624  1:32:55 InnoDB: The InnoDB memory heap is disabled
+160624  1:32:55 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+160624  1:32:55 InnoDB: Compressed tables use zlib 1.2.8
+160624  1:32:55 InnoDB: Using Linux native AIO
+160624  1:32:55 InnoDB: Initializing buffer pool, size = 128.0M
+160624  1:32:55 InnoDB: Completed initialization of buffer pool
+160624  1:32:55 InnoDB: highest supported file format is Barracuda.
+160624  1:32:55  InnoDB: Waiting for the background threads to start
+160624  1:32:56 InnoDB: 5.5.47 started; log sequence number 1595675
+/usr/sbin/mysqld: File '/root/code/error.log' not found (Errcode: 13)
+160624  1:32:56 [ERROR] Could not use /root/code/error.log for logging (error 13). Turning logging off for the whole duration of the MySQL server process. To turn it on again: fix the cause, shutdown the MySQL server and restart it.
+160624  1:32:56 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+160624  1:32:56 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+160624  1:32:56 [Note] Server socket created on IP: '0.0.0.0'.
+160624  1:32:56 [Note] Event Scheduler: Loaded 0 events
+160624  1:32:56 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.47-0ubuntu0.14.04.1-log'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  (Ubuntu)
